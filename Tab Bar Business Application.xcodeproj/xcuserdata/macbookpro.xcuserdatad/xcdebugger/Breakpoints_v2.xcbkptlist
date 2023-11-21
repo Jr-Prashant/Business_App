@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E71EC743-9082-47CD-AA29-540F0F7E1D0C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7FAF891-F2DA-4F7D-A02E-C70243EA04AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Services/ServicesTableViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E078ADEC-4980-42A1-93C5-1EDBD827FA9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Services/ServicesViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1285F77A-1B0D-49FF-9608-716DEF51C199"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Services/ServicesViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1285F77A-1B0D-49FF-9608-716DEF51C199 - 87e737029ebe65b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ServicesViewController viewDidLoad]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Services/ServicesViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "415">
+               </Location>
+               <Location
+                  uuid = "1285F77A-1B0D-49FF-9608-716DEF51C199 - 87e737029ebe65d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ServicesViewController viewDidLoad]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Services/ServicesViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "401">
+               </Location>
+               <Location
+                  uuid = "1285F77A-1B0D-49FF-9608-716DEF51C199 - 87e737029ebe65d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ServicesViewController viewDidLoad]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Services/ServicesViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "457">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11847243-8574-4A7A-A051-38E5B790CE59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Services/ServicesViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11847243-8574-4A7A-A051-38E5B790CE59 - 87e737029ebe655b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ServicesViewController viewDidLoad]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Services/ServicesViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "477">
+               </Location>
+               <Location
+                  uuid = "11847243-8574-4A7A-A051-38E5B790CE59 - 87e737029ebe6599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ServicesViewController viewDidLoad]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Services/ServicesViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "509">
+               </Location>
+               <Location
+                  uuid = "11847243-8574-4A7A-A051-38E5B790CE59 - 87e737029ebe6599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ServicesViewController viewDidLoad]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Services/ServicesViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "565">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D62E5C1-2E5A-41AF-BF04-D1CB242F1D37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Services/ServicesViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ServicesViewController()"
+            landmarkType = "2">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1012E47A-A572-4933-B535-B0A6BCD4E9CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Services/ServicesViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF71656D-92F1-466F-BCD2-34A894FDE9B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Porfolio/PortfolioViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-imageGallery"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF71656D-92F1-466F-BCD2-34A894FDE9B9 - e58722f36ed7fad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PortfolioViewController imageGallery]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Porfolio/PortfolioViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "381">
+               </Location>
+               <Location
+                  uuid = "AF71656D-92F1-466F-BCD2-34A894FDE9B9 - e58722f36ed7fafa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PortfolioViewController imageGallery]"
+                  moduleName = "Tab Bar Business Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/2_udemy/Sec-10_Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Tab%20Bar%20Business%20Application/Porfolio/PortfolioViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "381">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "224FEA9B-1798-414E-9B5F-27F39AE7FC55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tab Bar Business Application/Social/SocialTableViewController.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
